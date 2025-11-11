@@ -24,6 +24,9 @@ This repository showcases a API testing project for the Dmoney REST API, focusin
 ## Postman Collection Link :
 https://api.postman.com/collections/45419119-fabfb4f2-6f8a-49ea-9e37-dd084216d627?access_key=PMAT-01K9PM8HVD7YER5SCDTNE59916
 
+## Test Cases Link :
+https://docs.google.com/spreadsheets/d/1ToFRTzVPwIeCeWqzHz4EClwidLJaxgFubfuWflzI0S4/edit?usp=sharing
+
 ## Integration Documentation
 https://documenter.getpostman.com/view/45419119/2sB3WtrJFn
 
